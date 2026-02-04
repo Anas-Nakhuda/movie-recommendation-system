@@ -2,11 +2,6 @@
 
 A simple Movie Recommendation System built using Python, Pandas, and Streamlit.
 
-## 🌐 Live Demo
-https://movie-recommendation-system-ovlekjngwsp8rmptzbfma.streamlit.app
-
-
-
 ## Features
 - User-based collaborative filtering
 - Cosine similarity
